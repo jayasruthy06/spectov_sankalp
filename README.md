@@ -1,6 +1,6 @@
-# Enhanced the Sankalp Page of SpectoV Website
+# ✨ Enhanced the Sankalp Page of SpectoV Website
 
-## 🛠️ What I Changed
+## What I Changed
 
 - Added a **top navigation menu** for quick access to different sections.
 - Restructured content into well-defined sections:  
@@ -20,7 +20,7 @@
   - Added **status badges** for contests.
 
 
-## 💡 Why I Changed It
+## Why I Changed It
 
 - To **improve accessibility** through structured navigation.
 - To ensure a **logical and engaging content flow** for the reader.
@@ -29,7 +29,7 @@
 - To provide a **professional touch** with footer links for further exploration.
 
 
-## ✅ How It Improves the Original
+## How It Improves the Original
 
 - Offers a **smoother and more intuitive user experience**.
 - Guides users through content in a **clear, sequential manner**.
@@ -38,7 +38,7 @@
 - Makes the page feel **modern, polished, and purposeful**.
 
 ---
-# Getting Started:
+# 🔨 Getting Started:
 - Create a new local folder
 - Clone the repository into the new folder using the command
 ```bash
