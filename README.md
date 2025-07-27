@@ -1,4 +1,4 @@
-### Enhanced the Sankalp Page of SpectoV Website
+# Enhanced the Sankalp Page of SpectoV Website
 
 ## 🛠️ What I Changed
 
@@ -38,4 +38,18 @@
 - Makes the page feel **modern, polished, and purposeful**.
 
 ---
-
+# Getting Started:
+- Create a new local folder
+- Clone the repository into the new folder using the command
+```bash
+git clone https://github.com/jayasruthy06/spectov_sankalp.git
+```
+- Enter the folder **spectov_sankalp** and install the required dependencies
+```bash
+cd spectov_sankalp
+npm install
+```
+- Start the development server
+```bash
+npm run dev
+```
