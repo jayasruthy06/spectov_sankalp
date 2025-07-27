@@ -38,6 +38,13 @@
 - Makes the page feel **modern, polished, and purposeful**.
 
 ---
+# ⚙️ Tech Stack
+- **React + Vite**
+- **JavaScript**
+- **ShadCN**
+- **Tailwind CSS**
+- **Lucide React**
+---
 # 🔨 Getting Started:
 - Create a new local folder
 - Clone the repository into the new folder using the command
